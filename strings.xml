@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Yu-Gi-Oh! Duel Tracker!</string>
+
+    <string name="title">Yu-Gi-Oh!</string>
+    <string name="title2">Duel Tracker!</string>
+
+    <string name="lptrack">Life Point Tracker</string>
+    <string name="cardmanage">Card Manager</string>
+
+    <string name="lpstart">Select Start Amount:</string>
+    <string name="twok">2000</string>
+    <string name="fourk">4000</string>
+    <string name="sixk">6000</string>
+    <string name="eightk">8000</string>
+    <string name="tenk">10 000</string>
+    <string name="twelvek">12 000</string>
+    <string name="fourteenk">14 000</string>
+    <string name="sixteenk">16 000</string>
+
+    <string name="lp">LP</string>
+    <string name="placeholderlp">XXXX</string>
+    <string name="increaseLP">Increase LP:</string>
+    <string name="decreaseLP">Decrease LP:</string>
+    <string name="zero">0</string>
+    <string name="title_activity_card_manager">CardManager</string>
+</resources>
