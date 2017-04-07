@@ -12,4 +12,9 @@
     android:background="@drawable/background"
     tools:context="com.example.shelby.yu_gi_ohdueltracker.CardManager">
 
+    <Button
+        android:text="@string/delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/delete_button" />
 </RelativeLayout>
